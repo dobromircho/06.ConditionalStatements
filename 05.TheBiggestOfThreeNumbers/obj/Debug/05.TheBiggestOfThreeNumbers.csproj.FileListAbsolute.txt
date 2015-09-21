@@ -1,0 +1,5 @@
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\06.ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe.config
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\06.ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\06.ConditionalStatements\05.TheBiggestOfThreeNumbers\bin\Debug\05.TheBiggestOfThreeNumbers.pdb
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\06.ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.exe
+C:\Users\Dobromir\Desktop\SoftUni\HomeWorkSolutions\06.ConditionalStatements\05.TheBiggestOfThreeNumbers\obj\Debug\05.TheBiggestOfThreeNumbers.pdb
