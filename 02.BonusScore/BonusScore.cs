@@ -7,15 +7,15 @@ class BonusScore
         int number = int.Parse(Console.ReadLine());
         int multiplier = 0;
 
-        if (number >= 1 && number <= 3)
+        if (number >= 1 || number <= 3)
         {
             multiplier = 10;
         }
-        else if (number >= 4 && number <= 6)
+        else if (number >= 4 || number <= 6)
         {
             multiplier = 100;
         }
-        else if (number >= 7 && number <= 9)
+        else if (number >= 7 || number <= 9)
         {
             multiplier = 1000;
         }
